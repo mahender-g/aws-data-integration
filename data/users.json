@@ -1,0 +1,694 @@
+{
+  "users": [
+    {
+      "user_id": "1001",
+      "name": {
+        "first_name": "John",
+        "last_name": "Doe"
+      },
+      "contact": {
+        "email": "john.doe@email.com",
+        "phone": "+1123456789"
+      },
+      "address": {
+        "home": {
+          "street": "123 Main St",
+          "city": "Seattle",
+          "zipcode": "98101"
+        },
+        "office": {
+          "street": "456 Office Blvd",
+          "city": "Bellevue",
+          "zipcode": "98004"
+        }
+      }
+    },
+    {
+      "user_id": "1002",
+      "name": {
+        "first_name": "Jane",
+        "last_name": "Smith"
+      },
+      "contact": {
+        "email": "jane.smith@email.com",
+        "phone": "+1098765432"
+      },
+      "address": {
+        "home": {
+          "street": "789 Broadway Ave",
+          "city": "New York",
+          "zipcode": "10001"
+        },
+        "office": {
+          "street": "123 Corporate Dr",
+          "city": "Manhattan",
+          "zipcode": "10005"
+        }
+      }
+    },
+    {
+      "user_id": "1003",
+      "name": {
+        "first_name": "Alice",
+        "last_name": "Johnson"
+      },
+      "contact": {
+        "email": "alice.johnson@email.com",
+        "phone": "+1223344556"
+      },
+      "address": {
+        "home": {
+          "street": "101 First St",
+          "city": "Boston",
+          "zipcode": "02108"
+        },
+        "office": {
+          "street": "200 Second St",
+          "city": "Cambridge",
+          "zipcode": "02139"
+        }
+      }
+    },
+    {
+      "user_id": "1004",
+      "name": {
+        "first_name": "Bob",
+        "last_name": "Williams"
+      },
+      "contact": {
+        "email": "bob.williams@email.com",
+        "phone": "+1333444555"
+      },
+      "address": {
+        "home": {
+          "street": "500 Bay St",
+          "city": "San Francisco",
+          "zipcode": "94111"
+        },
+        "office": {
+          "street": "600 Market St",
+          "city": "Oakland",
+          "zipcode": "94607"
+        }
+      }
+    },
+    {
+      "user_id": "1005",
+      "name": {
+        "first_name": "Emily",
+        "last_name": "Brown"
+      },
+      "contact": {
+        "email": "emily.brown@email.com",
+        "phone": "+1444555666"
+      },
+      "address": {
+        "home": {
+          "street": "700 Pine St",
+          "city": "Denver",
+          "zipcode": "80202"
+        },
+        "office": {
+          "street": "800 Elm St",
+          "city": "Aurora",
+          "zipcode": "80012"
+        }
+      }
+    },
+    {
+      "user_id": "1006",
+      "name": {
+        "first_name": "Chris",
+        "last_name": "Davis"
+      },
+      "contact": {
+        "email": "chris.davis@email.com",
+        "phone": "+1555666777"
+      },
+      "address": {
+        "home": {
+          "street": "123 Oak St",
+          "city": "Los Angeles",
+          "zipcode": "90001"
+        },
+        "office": {
+          "street": "456 Maple St",
+          "city": "Long Beach",
+          "zipcode": "90802"
+        }
+      }
+    },
+    {
+      "user_id": "1007",
+      "name": {
+        "first_name": "David",
+        "last_name": "Miller"
+      },
+      "contact": {
+        "email": "david.miller@email.com",
+        "phone": "+1666777888"
+      },
+      "address": {
+        "home": {
+          "street": "500 Sunset Blvd",
+          "city": "Hollywood",
+          "zipcode": "90028"
+        },
+        "office": {
+          "street": "700 Vine St",
+          "city": "Burbank",
+          "zipcode": "91501"
+        }
+      }
+    },
+    {
+      "user_id": "1008",
+      "name": {
+        "first_name": "Olivia",
+        "last_name": "Moore"
+      },
+      "contact": {
+        "email": "olivia.moore@email.com",
+        "phone": "+1777888999"
+      },
+      "address": {
+        "home": {
+          "street": "300 Palm Ave",
+          "city": "Miami",
+          "zipcode": "33101"
+        },
+        "office": {
+          "street": "400 Ocean Dr",
+          "city": "Miami Beach",
+          "zipcode": "33139"
+        }
+      }
+    },
+    {
+      "user_id": "1009",
+      "name": {
+        "first_name": "Sophia",
+        "last_name": "Taylor"
+      },
+      "contact": {
+        "email": "sophia.taylor@email.com",
+        "phone": "+1888999000"
+      },
+      "address": {
+        "home": {
+          "street": "900 Main St",
+          "city": "Dallas",
+          "zipcode": "75201"
+        },
+        "office": {
+          "street": "1001 Commerce St",
+          "city": "Fort Worth",
+          "zipcode": "76102"
+        }
+      }
+    },
+    {
+      "user_id": "1010",
+      "name": {
+        "first_name": "James",
+        "last_name": "Anderson"
+      },
+      "contact": {
+        "email": "james.anderson@email.com",
+        "phone": "+1999000111"
+      },
+      "address": {
+        "home": {
+          "street": "1100 River Rd",
+          "city": "Nashville",
+          "zipcode": "37201"
+        },
+        "office": {
+          "street": "1200 Broadway",
+          "city": "Brentwood",
+          "zipcode": "37027"
+        }
+      }
+    },
+    {
+      "user_id": "1011",
+      "name": {
+        "first_name": "Liam",
+        "last_name": "Thomas"
+      },
+      "contact": {
+        "email": "liam.thomas@email.com",
+        "phone": "+1999000222"
+      },
+      "address": {
+        "home": {
+          "street": "500 King St",
+          "city": "Chicago",
+          "zipcode": "60607"
+        },
+        "office": {
+          "street": "600 Queen St",
+          "city": "Evanston",
+          "zipcode": "60201"
+        }
+      }
+    },
+    {
+      "user_id": "1012",
+      "name": {
+        "first_name": "Charlotte",
+        "last_name": "White"
+      },
+      "contact": {
+        "email": "charlotte.white@email.com",
+        "phone": "+1999000333"
+      },
+      "address": {
+        "home": {
+          "street": "800 Lake Shore Dr",
+          "city": "Chicago",
+          "zipcode": "60611"
+        },
+        "office": {
+          "street": "900 Michigan Ave",
+          "city": "Naperville",
+          "zipcode": "60540"
+        }
+      }
+    },
+    {
+      "user_id": "1013",
+      "name": {
+        "first_name": "Isabella",
+        "last_name": "Martinez"
+      },
+      "contact": {
+        "email": "isabella.martinez@email.com",
+        "phone": "+1999000444"
+      },
+      "address": {
+        "home": {
+          "street": "200 Broadway",
+          "city": "Austin",
+          "zipcode": "78701"
+        },
+        "office": {
+          "street": "300 Congress Ave",
+          "city": "Round Rock",
+          "zipcode": "78664"
+        }
+      }
+    },
+    {
+      "user_id": "1014",
+      "name": {
+        "first_name": "Mason",
+        "last_name": "Hernandez"
+      },
+      "contact": {
+        "email": "mason.hernandez@email.com",
+        "phone": "+1999000555"
+      },
+      "address": {
+        "home": {
+          "street": "400 Alamo St",
+          "city": "San Antonio",
+          "zipcode": "78205"
+        },
+        "office": {
+          "street": "500 Riverwalk Dr",
+          "city": "San Marcos",
+          "zipcode": "78666"
+        }
+      }
+    },
+    {
+      "user_id": "1015",
+      "name": {
+        "first_name": "Mia",
+        "last_name": "Lopez"
+      },
+      "contact": {
+        "email": "mia.lopez@email.com",
+        "phone": "+1999000666"
+      },
+      "address": {
+        "home": {
+          "street": "600 King William St",
+          "city": "San Antonio",
+          "zipcode": "78204"
+        },
+        "office": {
+          "street": "700 St Mary's St",
+          "city": "New Braunfels",
+          "zipcode": "78130"
+        }
+      }
+    },
+    {
+      "user_id": "1016",
+      "name": {
+        "first_name": "Lucas",
+        "last_name": "Gonzalez"
+      },
+      "contact": {
+        "email": "lucas.gonzalez@email.com",
+        "phone": "+1999000777"
+      },
+      "address": {
+        "home": {
+          "street": "100 Franklin St",
+          "city": "Boston",
+          "zipcode": "02110"
+        },
+        "office": {
+          "street": "200 Boylston St",
+          "city": "Cambridge",
+          "zipcode": "02142"
+        }
+      }
+    },
+    {
+      "user_id": "1017",
+      "name": {
+        "first_name": "Amelia",
+        "last_name": "Nguyen"
+      },
+      "contact": {
+        "email": "amelia.nguyen@email.com",
+        "phone": "+1999000888"
+      },
+      "address": {
+        "home": {
+          "street": "300 Commonwealth Ave",
+          "city": "Boston",
+          "zipcode": "02116"
+        },
+        "office": {
+          "street": "400 Harvard St",
+          "city": "Cambridge",
+          "zipcode": "02138"
+        }
+      }
+    },
+    {
+      "user_id": "1018",
+      "name": {
+        "first_name": "Ethan",
+        "last_name": "Lee"
+      },
+      "contact": {
+        "email": "ethan.lee@email.com",
+        "phone": "+1999000999"
+      },
+      "address": {
+        "home": {
+          "street": "500 State St",
+          "city": "Philadelphia",
+          "zipcode": "19107"
+        },
+        "office": {
+          "street": "600 Market St",
+          "city": "Camden",
+          "zipcode": "08103"
+        }
+      }
+    },
+    {
+      "user_id": "1019",
+      "name": {
+        "first_name": "Harper",
+        "last_name": "King"
+      },
+      "contact": {
+        "email": "harper.king@email.com",
+        "phone": "+1999000110"
+      },
+      "address": {
+        "home": {
+          "street": "700 Chestnut St",
+          "city": "Philadelphia",
+          "zipcode": "19106"
+        },
+        "office": {
+          "street": "800 Walnut St",
+          "city": "Cherry Hill",
+          "zipcode": "08034"
+        }
+      }
+    },
+    {
+      "user_id": "1020",
+      "name": {
+        "first_name": "Henry",
+        "last_name": "Wright"
+      },
+      "contact": {
+        "email": "henry.wright@email.com",
+        "phone": "+1999000111"
+      },
+      "address": {
+        "home": {
+          "street": "900 Pine St",
+          "city": "Seattle",
+          "zipcode": "98101"
+        },
+        "office": {
+          "street": "1000 Pike St",
+          "city": "Tacoma",
+          "zipcode": "98402"
+        }
+      }
+    },
+    {
+      "user_id": "1021",
+      "name": {
+        "first_name": "Evelyn",
+        "last_name": "Scott"
+      },
+      "contact": {
+        "email": "evelyn.scott@email.com",
+        "phone": "+1999000112"
+      },
+      "address": {
+        "home": {
+          "street": "1100 Belmont Ave",
+          "city": "Seattle",
+          "zipcode": "98122"
+        },
+        "office": {
+          "street": "1200 Madison St",
+          "city": "Bellevue",
+          "zipcode": "98004"
+        }
+      }
+    },
+    {
+      "user_id": "1022",
+      "name": {
+        "first_name": "Michael",
+        "last_name": "Robinson"
+      },
+      "contact": {
+        "email": "michael.robinson@email.com",
+        "phone": "+1999000113"
+      },
+      "address": {
+        "home": {
+          "street": "1300 Aurora Ave",
+          "city": "Seattle",
+          "zipcode": "98109"
+        },
+        "office": {
+          "street": "1400 Pacific Hwy",
+          "city": "Redmond",
+          "zipcode": "98052"
+        }
+      }
+    },
+    {
+      "user_id": "1023",
+      "name": {
+        "first_name": "Ella",
+        "last_name": "Harris"
+      },
+      "contact": {
+        "email": "ella.harris@email.com",
+        "phone": "+1999000114"
+      },
+      "address": {
+        "home": {
+          "street": "1500 Pike St",
+          "city": "Seattle",
+          "zipcode": "98101"
+        },
+        "office": {
+          "street": "1600 Broadway",
+          "city": "Bellevue",
+          "zipcode": "98005"
+        }
+      }
+    },
+    {
+      "user_id": "1024",
+      "name": {
+        "first_name": "Daniel",
+        "last_name": "Garcia"
+      },
+      "contact": {
+        "email": "daniel.garcia@email.com",
+        "phone": "+1999000115"
+      },
+      "address": {
+        "home": {
+          "street": "1700 Stewart St",
+          "city": "Portland",
+          "zipcode": "97201"
+        },
+        "office": {
+          "street": "1800 Burnside St",
+          "city": "Vancouver",
+          "zipcode": "98660"
+        }
+      }
+    },
+    {
+      "user_id": "1025",
+      "name": {
+        "first_name": "Grace",
+        "last_name": "Martinez"
+      },
+      "contact": {
+        "email": "grace.martinez@email.com",
+        "phone": "+1999000116"
+      },
+      "address": {
+        "home": {
+          "street": "1900 Pearl St",
+          "city": "Portland",
+          "zipcode": "97209"
+        },
+        "office": {
+          "street": "2000 Alberta St",
+          "city": "Vancouver",
+          "zipcode": "98660"
+        }
+      }
+    },
+    {
+      "user_id": "1026",
+      "name": {
+        "first_name": "Samuel",
+        "last_name": "Young"
+      },
+      "contact": {
+        "email": "samuel.young@email.com",
+        "phone": "+1999000117"
+      },
+      "address": {
+        "home": {
+          "street": "2100 Lovejoy St",
+          "city": "Portland",
+          "zipcode": "97210"
+        },
+        "office": {
+          "street": "2200 Hawthorne Blvd",
+          "city": "Vancouver",
+          "zipcode": "98663"
+        }
+      }
+    },
+    {
+      "user_id": "1027",
+      "name": {
+        "first_name": "Avery",
+        "last_name": "Clark"
+      },
+      "contact": {
+        "email": "avery.clark@email.com",
+        "phone": "+1999000118"
+      },
+      "address": {
+        "home": {
+          "street": "2300 Thurman St",
+          "city": "Portland",
+          "zipcode": "97210"
+        },
+        "office": {
+          "street": "2400 Belmont St",
+          "city": "Beaverton",
+          "zipcode": "97005"
+        }
+      }
+    },
+    {
+      "user_id": "1028",
+      "name": {
+        "first_name": "Sofia",
+        "last_name": "Walker"
+      },
+      "contact": {
+        "email": "sofia.walker@email.com",
+        "phone": "+1999000119"
+      },
+      "address": {
+        "home": {
+          "street": "2500 Division St",
+          "city": "Portland",
+          "zipcode": "97206"
+        },
+        "office": {
+          "street": "2600 Stark St",
+          "city": "Beaverton",
+          "zipcode": "97006"
+        }
+      }
+    },
+    {
+      "user_id": "1029",
+      "name": {
+        "first_name": "Levi",
+        "last_name": "Hall"
+      },
+      "contact": {
+        "email": "levi.hall@email.com",
+        "phone": "+1999000120"
+      },
+      "address": {
+        "home": {
+          "street": "2700 Belmont St",
+          "city": "Portland",
+          "zipcode": "97214"
+        },
+        "office": {
+          "street": "2800 Glisan St",
+          "city": "Gresham",
+          "zipcode": "97030"
+        }
+      }
+    },
+    {
+      "user_id": "1030",
+      "name": {
+        "first_name": "Benjamin",
+        "last_name": "Allen"
+      },
+      "contact": {
+        "email": "benjamin.allen@email.com",
+        "phone": "+1999000121"
+      },
+      "address": {
+        "home": {
+          "street": "2900 Hawthorne St",
+          "city": "Portland",
+          "zipcode": "97214"
+        },
+        "office": {
+          "street": "3000 Sandy Blvd",
+          "city": "Gresham",
+          "zipcode": "97030"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "orders": [
+    {
+      "order_id": "5001",
+      "customer_id": "1001",
+      "order_date": "2024-01-15",
+      "items": [
+        {
+          "item_id": "A123",
+          "product_name": "Laptop",
+          "quantity": 1,
+          "price": 1200.00
+        },
+        {
+          "item_id": "B456",
+          "product_name": "Mouse",
+          "quantity": 2,
+          "price": 25.00
+        }
+      ],
+      "total_amount": 1250.00
+    },
+    {
+      "order_id": "5002",
+      "customer_id": "1002",
+      "order_date": "2024-01-16",
+      "items": [
+        {
+          "item_id": "C789",
+          "product_name": "Keyboard",
+          "quantity": 1,
+          "price": 75.00
+        }
+      ],
+      "total_amount": 75.00
+    },
+    {
+      "order_id": "5003",
+      "customer_id": "1003",
+      "order_date": "2024-01-17",
+      "items": [
+        {
+          "item_id": "D012",
+          "product_name": "Monitor",
+          "quantity": 2,
+          "price": 200.00
+        }
+      ],
+      "total_amount": 400.00
+    },
+    {
+      "order_id": "5004",
+      "customer_id": "1004",
+      "order_date": "2024-01-18",
+      "items": [
+        {
+          "item_id": "E345",
+          "product_name": "Printer",
+          "quantity": 1,
+          "price": 150.00
+        }
+      ],
+      "total_amount": 150.00
+    },
+    {
+      "order_id": "5005",
+      "customer_id": "1005",
+      "order_date": "2024-01-19",
+      "items": [
+        {
+          "item_id": "F678",
+          "product_name": "Tablet",
+          "quantity": 1,
+          "price": 300.00
+        }
+      ],
+      "total_amount": 300.00
+    },
+    {
+      "order_id": "5006",
+      "customer_id": "1006",
+      "order_date": "2024-01-20",
+      "items": [
+        {
+          "item_id": "G901",
+          "product_name": "Headphones",
+          "quantity": 1,
+          "price": 100.00
+        }
+      ],
+      "total_amount": 100.00
+    },
+    {
+      "order_id": "5007",
+      "customer_id": "1007",
+      "order_date": "2024-01-21",
+      "items": [
+        {
+          "item_id": "H234",
+          "product_name": "Webcam",
+          "quantity": 1,
+          "price": 50.00
+        }
+      ],
+      "total_amount": 50.00
+    },
+    {
+      "order_id": "5008",
+      "customer_id": "1008",
+      "order_date": "2024-01-22",
+      "items": [
+        {
+          "item_id": "I567",
+          "product_name": "Smartphone",
+          "quantity": 1,
+          "price": 700.00
+        }
+      ],
+      "total_amount": 700.00
+    },
+    {
+      "order_id": "5009",
+      "customer_id": "1009",
+      "order_date": "2024-01-23",
+      "items": [
+        {
+          "item_id": "J890",
+          "product_name": "External Hard Drive",
+          "quantity": 1,
+          "price": 150.00
+        }
+      ],
+      "total_amount": 150.00
+    },
+    {
+      "order_id": "5010",
+      "customer_id": "1010",
+      "order_date": "2024-01-24",
+      "items": [
+        {
+          "item_id": "K123",
+          "product_name": "USB Flash Drive",
+          "quantity": 3,
+          "price": 30.00
+        }
+      ],
+      "total_amount": 90.00
+    },
+    {
+      "order_id": "5011",
+      "customer_id": "1011",
+      "order_date": "2024-01-25",
+      "items": [
+        {
+          "item_id": "L456",
+          "product_name": "Smartwatch",
+          "quantity": 1,
+          "price": 200.00
+        }
+      ],
+      "total_amount": 200.00
+    },
+    {
+      "order_id": "5012",
+      "customer_id": "1012",
+      "order_date": "2024-01-26",
+      "items": [
+        {
+          "item_id": "M789",
+          "product_name": "Bluetooth Speaker",
+          "quantity": 1,
+          "price": 120.00
+        }
+      ],
+      "total_amount": 120.00
+    },
+    {
+      "order_id": "5013",
+      "customer_id": "1013",
+      "order_date": "2024-01-27",
+      "items": [
+        {
+          "item_id": "N012",
+          "product_name": "Camera",
+          "quantity": 1,
+          "price": 600.00
+        }
+      ],
+      "total_amount": 600.00
+    },
+    {
+      "order_id": "5014",
+      "customer_id": "1014",
+      "order_date": "2024-01-28",
+      "items": [
+        {
+          "item_id": "O345",
+          "product_name": "Drone",
+          "quantity": 1,
+          "price": 400.00
+        }
+      ],
+      "total_amount": 400.00
+    },
+    {
+      "order_id": "5015",
+      "customer_id": "1015",
+      "order_date": "2024-01-29",
+      "items": [
+        {
+          "item_id": "P678",
+          "product_name": "VR Headset",
+          "quantity": 1,
+          "price": 250.00
+        }
+      ],
+      "total_amount": 250.00
+    },
+    {
+      "order_id": "5016",
+      "customer_id": "1016",
+      "order_date": "2024-01-30",
+      "items": [
+        {
+          "item_id": "Q901",
+          "product_name": "Gaming Console",
+          "quantity": 1,
+          "price": 500.00
+        }
+      ],
+      "total_amount": 500.00
+    },
+    {
+      "order_id": "5017",
+      "customer_id": "1017",
+      "order_date": "2024-01-31",
+      "items": [
+        {
+          "item_id": "R234",
+          "product_name": "Router",
+          "quantity": 1,
+          "price": 80.00
+        }
+      ],
+      "total_amount": 80.00
+    },
+    {
+      "order_id": "5018",
+      "customer_id": "1018",
+      "order_date": "2024-02-01",
+      "items": [
+        {
+          "item_id": "S567",
+          "product_name": "Keyboard",
+          "quantity": 2,
+          "price": 70.00
+        }
+      ],
+      "total_amount": 140.00
+    },
+    {
+      "order_id": "5019",
+      "customer_id": "1019",
+      "order_date": "2024-02-02",
+      "items": [
+        {
+          "item_id": "T890",
+          "product_name": "Mouse",
+          "quantity": 3,
+          "price": 20.00
+        }
+      ],
+      "total_amount": 60.00
+    },
+    {
+      "order_id": "5020",
+      "customer_id": "1020",
+      "order_date": "2024-02-03",
+      "items": [
+        {
+          "item_id": "U123",
+          "product_name": "Laptop Bag",
+          "quantity": 1,
+          "price": 50.00
+        }
+      ],
+      "total_amount": 50.00
+    },
+    {
+      "order_id": "5021",
+      "customer_id": "1021",
+      "order_date": "2024-02-04",
+      "items": [
+        {
+          "item_id": "V456",
+          "product_name": "Power Bank",
+          "quantity": 2,
+          "price": 40.00
+        }
+      ],
+      "total_amount": 80.00
+    },
+    {
+      "order_id": "5022",
+      "customer_id": "1022",
+      "order_date": "2024-02-05",
+      "items": [
+        {
+          "item_id": "W789",
+          "product_name": "Bluetooth Earbuds",
+          "quantity": 1,
+          "price": 130.00
+        }
+      ],
+      "total_amount": 130.00
+    },
+    {
+      "order_id": "5023",
+      "customer_id": "1023",
+      "order_date": "2024-02-06",
+      "items": [
+        {
+          "item_id": "X012",
+          "product_name": "Smartwatch Charger",
+          "quantity": 1,
+          "price": 25.00
+        }
+      ],
+      "total_amount": 25.00
+    },
+    {
+      "order_id": "5024",
+      "customer_id": "1024",
+      "order_date": "2024-02-07",
+      "items": [
+        {
+          "item_id": "Y345",
+          "product_name": "Camera Lens",
+          "quantity": 1,
+          "price": 350.00
+        }
+      ],
+      "total_amount": 350.00
+    },
+    {
+      "order_id": "5025",
+      "customer_id": "1025",
+      "order_date": "2024-02-08",
+      "items": [
+        {
+          "item_id": "Z678",
+          "product_name": "Tablet Stand",
+          "quantity": 1,
+          "price": 40.00
+        }
+      ],
+      "total_amount": 40.00
+    },
+    {
+      "order_id": "5026",
+      "customer_id": "1026",
+      "order_date": "2024-02-09",
+      "items": [
+        {
+          "item_id": "A234",
+          "product_name": "Desk Lamp",
+          "quantity": 2,
+          "price": 60.00
+        }
+      ],
+      "total_amount": 120.00
+    },
+    {
+      "order_id": "5027",
+      "customer_id": "1027",
+      "order_date": "2024-02-10",
+      "items": [
+        {
+          "item_id": "B567",
+          "product_name": "Office Chair",
+          "quantity": 1,
+          "price": 150.00
+        }
+      ],
+      "total_amount": 150.00
+    },
+    {
+      "order_id": "5028",
+      "customer_id": "1028",
+      "order_date": "2024-02-11",
+      "items": [
+        {
+          "item_id": "C890",
+          "product_name": "Desk Organizer",
+          "quantity": 1,
+          "price": 25.00
+        }
+      ],
+      "total_amount": 25.00
+    },
+    {
+      "order_id": "5029",
+      "customer_id": "1029",
+      "order_date": "2024-02-12",
+      "items": [
+        {
+          "item_id": "D123",
+          "product_name": "Laptop Stand",
+          "quantity": 1,
+          "price": 45.00
+        }
+      ],
+      "total_amount": 45.00
+    },
+    {
+      "order_id": "5030",
+      "customer_id": "1030",
+      "order_date": "2024-02-13",
+      "items": [
+        {
+          "item_id": "E456",
+          "product_name": "Monitor Stand",
+          "quantity": 1,
+          "price": 35.00
+        }
+      ],
+      "total_amount": 35.00
+    }
+  ]
+}

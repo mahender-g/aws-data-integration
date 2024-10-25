@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "product_id": "P001",
+      "product_name": "Laptop",
+      "category": "Electronics",
+      "price": 1200.00,
+      "stock_quantity": 50
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Mouse",
+      "category": "Electronics",
+      "price": 25.00,
+      "stock_quantity": 200
+    },
+    {
+      "product_id": "P003",
+      "product_name": "Keyboard",
+      "category": "Electronics",
+      "price": 75.00,
+      "stock_quantity": 150
+    },
+    {
+      "product_id": "P004",
+      "product_name": "Monitor",
+      "category": "Electronics",
+      "price": 200.00,
+      "stock_quantity": 70
+    },
+    {
+      "product_id": "P005",
+      "product_name": "Printer",
+      "category": "Electronics",
+      "price": 150.00,
+      "stock_quantity": 30
+    },
+    {
+      "product_id": "P006",
+      "product_name": "Tablet",
+      "category": "Electronics",
+      "price": 300.00,
+      "stock_quantity": 60
+    },
+    {
+      "product_id": "P007",
+      "product_name": "Headphones",
+      "category": "Electronics",
+      "price": 100.00,
+      "stock_quantity": 100
+    },
+    {
+      "product_id": "P008",
+      "product_name": "Webcam",
+      "category": "Electronics",
+      "price": 50.00,
+      "stock_quantity": 80
+    },
+    {
+      "product_id": "P009",
+      "product_name": "Smartphone",
+      "category": "Electronics",
+      "price": 700.00,
+      "stock_quantity": 40
+    },
+    {
+      "product_id": "P010",
+      "product_name": "External Hard Drive",
+      "category": "Electronics",
+      "price": 150.00,
+      "stock_quantity": 90
+    },
+    {
+      "product_id": "P011",
+      "product_name": "USB Flash Drive",
+      "category": "Electronics",
+      "price": 30.00,
+      "stock_quantity": 300
+    },
+    {
+      "product_id": "P012",
+      "product_name": "Smartwatch",
+      "category": "Electronics",
+      "price": 200.00,
+      "stock_quantity": 50
+    },
+    {
+      "product_id": "P013",
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 120.00,
+      "stock_quantity": 80
+    },
+    {
+      "product_id": "P014",
+      "product_name": "Camera",
+      "category": "Electronics",
+      "price": 600.00,
+      "stock_quantity": 20
+    },
+    {
+      "product_id": "P015",
+      "product_name": "Drone",
+      "category": "Electronics",
+      "price": 400.00,
+      "stock_quantity": 25
+    },
+    {
+      "product_id": "P016",
+      "product_name": "VR Headset",
+      "category": "Electronics",
+      "price": 250.00,
+      "stock_quantity": 30
+    },
+    {
+      "product_id": "P017",
+      "product_name": "Gaming Console",
+      "category": "Electronics",
+      "price": 500.00,
+      "stock_quantity": 40
+    },
+    {
+      "product_id": "P018",
+      "product_name": "Router",
+      "category": "Electronics",
+      "price": 80.00,
+      "stock_quantity": 60
+    },
+    {
+      "product_id": "P019",
+      "product_name": "Bluetooth Earbuds",
+      "category": "Electronics",
+      "price": 130.00,
+      "stock_quantity": 70
+    },
+    {
+      "product_id": "P020",
+      "product_name": "Smartwatch Charger",
+      "category": "Accessories",
+      "price": 25.00,
+      "stock_quantity": 150
+    },
+    {
+      "product_id": "P021",
+      "product_name": "Camera Lens",
+      "category": "Accessories",
+      "price": 350.00,
+      "stock_quantity": 30
+    },
+    {
+      "product_id": "P022",
+      "product_name": "Tablet Stand",
+      "category": "Accessories",
+      "price": 40.00,
+      "stock_quantity": 80
+    },
+    {
+      "product_id": "P023",
+      "product_name": "Desk Lamp",
+      "category": "Furniture",
+      "price": 60.00,
+      "stock_quantity": 50
+    },
+    {
+      "product_id": "P024",
+      "product_name": "Office Chair",
+      "category": "Furniture",
+      "price": 150.00,
+      "stock_quantity": 20
+    },
+    {
+      "product_id": "P025",
+      "product_name": "Desk Organizer",
+      "category": "Furniture",
+      "price": 25.00,
+      "stock_quantity": 100
+    },
+    {
+      "product_id": "P026",
+      "product_name": "Laptop Stand",
+      "category": "Furniture",
+      "price": 45.00,
+      "stock_quantity": 70
+    },
+    {
+      "product_id": "P027",
+      "product_name": "Monitor Stand",
+      "category": "Furniture",
+      "price": 35.00,
+      "stock_quantity": 90
+    },
+    {
+      "product_id": "P028",
+      "product_name": "Printer Paper",
+      "category": "Office Supplies",
+      "price": 10.00,
+      "stock_quantity": 150
+    },
+    {
+      "product_id": "P029",
+      "product_name": "Ink Cartridges",
+      "category": "Office Supplies",
+      "price": 45.00,
+      "stock_quantity": 100
+    },
+    {
+      "product_id": "P030",
+      "product_name": "Whiteboard Marker",
+      "category": "Office Supplies",
+      "price": 15.00,
+      "stock_quantity": 200
+    }
+  ]
+}

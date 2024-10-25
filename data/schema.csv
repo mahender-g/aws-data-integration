@@ -1,0 +1,3 @@
+user_id,full_name,email,order_id,order_date,item_id,item_product_name,quantity,price,total_amount,product_product_name,category,stock_quantity
+"1001","John Doe","john.doe@email.com","5001","2024-01-15","A123","Laptop",1,1200.00,1250.00,"Laptop","Electronics",50
+
